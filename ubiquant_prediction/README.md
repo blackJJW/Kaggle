@@ -20,7 +20,7 @@
 ---
 
 - **사용언어** : `Python`
-- **작업 툴** : `kaggle notebook`
+- **작업 툴** : `Kaggle Notebook`
 - **사용 라이브러리** : `pandas`, `numpy`, `gc`, `tqdm`, `matplotlib`, `seaborn`, `scipy`, `sklearn`,    `lightgbm`
 - **인원** : 1명
 - **기간** : 2022.03.20 ~ 2022.04.12
