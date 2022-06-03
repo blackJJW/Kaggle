@@ -23,14 +23,14 @@
 - **작업 툴** : `kaggle notebook`
 - **사용 라이브러리** : `pandas`, `numpy`, `gc`, `tqdm`, `matplotlib`, `seaborn`, `scipy`, `sklearn`,    `lightgbm`
 - **인원** : 1명
-- **기간** : 2022.04.01 ~ 2022.04.12
+- **기간** : 2022.03.20 ~ 2022.04.12
 - **내용** : feature 의 이름들이 가명으로 된 데이터를 활용하여 분석 및 시각화, Machine Learning를 이용한 예측 도출
 
 ### 분석 방향
 
 - feature의 이름들이 가명화 되어 있어 각 feature가 무엇이고, feature들을 이용하여 새로운 feature를 생성하기 어려움
 - 다양한 feature들을 시각화를 통해 분석
-- 이상치를 찾아내어 분석의 정확성을 높이고자 함
+- 이상치를 찾아내어 분석및 예측의 정확성을 높이고자 함
 
 ## 데이터
 
